@@ -32,15 +32,15 @@ MySQL
 
 
 
-# upgrade pip
+ - upgrade pip
 python -m pip install --upgrade pip
 
-# Core Libraries
+-  Core Libraries
 pip install numpy==1.18.1
 pip install pandas==0.25.3
 pip install matplotlib==3.1.3
 
-# Machine Learning & Deep Learning
+-  Machine Learning & Deep Learning
 pip install tensorflow==1.14.0
 pip install keras==2.3.1
 pip install scikit-learn==0.22.2.post1
@@ -50,7 +50,7 @@ pip install sklearn-extensions==0.0.2
 
 
 
-# Web Framework & Database
+-  Web Framework & Database
 pip install django==2.1.7
 pip install pymysql==0.9.3
 
