@@ -1,0 +1,24 @@
+create database profile;
+use profile;
+
+create table register(username varchar(50) primary key,
+password varchar(50),
+contact_no varchar(20),
+email varchar(50), 
+address varchar(80));
+
+
+create table profiles(username varchar(50),
+account_age varchar(20),
+gender varchar(20),
+user_age varchar(20),
+link_desc varchar(20),
+status_count varchar(20),
+friend_count varchar(20),
+internet varchar(20),
+task varchar(20),
+wifi varchar(20),
+predict varchar(20));
+
+
+
