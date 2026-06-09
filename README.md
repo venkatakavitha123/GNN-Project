@@ -27,7 +27,7 @@ Pandas, NumPy
 HTML
 CSS
 JavaScript
-__ Database__
+__ Databases__
 MySQL
 
 
