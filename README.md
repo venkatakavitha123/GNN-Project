@@ -32,7 +32,7 @@ MySQL
 
 
 
-# Upgrade pip
+# upgrade pip
 python -m pip install --upgrade pip
 
 # Core Libraries
